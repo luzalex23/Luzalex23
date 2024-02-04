@@ -3,8 +3,8 @@
 
 ### - 💬 Irei falar um pouco sobre mim ...
 
-* 📖 Sou recém formado em ciências de dados
-* 🧑🏻‍💻 Desenvolvedor de Software instigado por inovações.
+* 📖 Sou um desenvolvedor de software altamente motivado e apaixonado por criar soluções inovadoras e eficazes.
+* 🧑🏻‍💻Minha paixão pelo desenvolvimento de soluções me impulsiona a permanecer atualizado com as tendências tecnológicas mais recentes.
 * 💡 Estou sempre abertos a novas idéias e projetos inovadores. 
 
 <p align="center">
